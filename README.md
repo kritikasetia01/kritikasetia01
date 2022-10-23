@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Kritika Setia
 - 👀 I’m interested in Data Science Project work.
-- 🌱 I’m currently enrolled in PGP Data scienceprogram by Simplilearn.I am learning r Programming Data Science
-- 💞️ I’m looking to collaborate on Data Science projects new discoveries in the field of Data.
+- 🌱 I’m currently enrolled in PGP Data scienceprogram by Simplilearn and learning R Programming Data Science
+- 💞️ I’m ready to collaborate on Data Science projects or research work to be done.
 - 📫 Reach me at Kritikasetia01@gmail.com
-- My Skill set includes Microsoft Excel, Tableau, PowerBI, My SQL, Python, NumPy, Pandas, Matplotlib, SciPy, Scikits Learn, TensorFlow, R, Matplotlib, Seaborn.
+- My Skill set includes Microsoft Excel, Tableau, PowerBI, My SQL, Python, NumPy, Pandas, Matplotlib, SciPy, Scikits Learn, TensorFlow, R, Matplotlib, Seaborn Machine learning, Supervised learning, unsupervised learning, reinforcement learning, Tensor flow. 
 
 
 <!---
